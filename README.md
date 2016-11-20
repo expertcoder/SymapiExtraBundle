@@ -22,3 +22,12 @@ class AppKernel extends Kernel
         ];
 
 ````
+
+##Developer Notes
+
+Change the composer.json Git version fo push via SSH alias
+
+````
+git remote set-url origin git@github-expertcoder:expertcoder/SymapiExtraBundle.git
+git remote set-url --push origin git@github-expertcoder:expertcoder/SymapiExtraBundle.git
+````
