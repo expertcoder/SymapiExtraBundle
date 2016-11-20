@@ -1,6 +1,6 @@
 <?php
 
-namespace ApiBundle\Other;
+namespace ExpertCoder\SymapiExtraBundle\Other;
 
 use Symfony\Component\Form\Extension\Validator\Type\FormTypeValidatorExtension;
 use Symfony\Component\OptionsResolver\OptionsResolver;
